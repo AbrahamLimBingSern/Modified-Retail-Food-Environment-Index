@@ -1,5 +1,4 @@
-# Modified Retail Food Environment Index
-
+# Modified-Retail-Food-Environment-Index
 My Data Wrangling Group Project
 The modified retail food environment index table is part of a series of indicators in 
 the Healthy Communities Data and Indicators Project (HCI) of the Office of Health Equity. 
